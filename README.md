@@ -1,6 +1,6 @@
 # Vue.js architecture sample: views
 
-This is a sample architecture for Vue.js projects based on `views`. The views are application pages and components are used by pages. 
+This is a sample architecture for Vue.js projects based on `views`. The views are application pages and components are used by them. 
 
 <br>
 
